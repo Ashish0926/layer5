@@ -1,4 +1,4 @@
-import SCA from "../../../collections/programs/sca-contributhon/sca.svg";
+import SCA from "../../../collections/programs/sca-contributhon/she-code-africa.svg";
 import MLH from "../../../collections/programs/mlh-2020/mlh.svg";
 import LFX from "../../../collections/programs/lfx-2022/Linux_Foundation_logo.png";
 import Hacktoberfest from "../../../assets/images/programs/hacktoberfest.png";
